@@ -1,2 +1,2 @@
-info = "Este arquivo deve sofrer uma alteração"
+info = "Está mensagem foi alterada"
 print(info.capitalize())
